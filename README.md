@@ -44,13 +44,13 @@ This portfolio was created to practice and demonstrate:
 1. Clone repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/soumyadeepmukherji/Portfolio-html-css>
 ```
 
 2. Open project folder
 
 ```bash
-cd portfolio
+cd portfolio-html-css
 ```
 
 3. Run locally
@@ -69,8 +69,6 @@ Open `index.html` in browser.
 ---
 
 ## 👨‍💻 Author
-
-Your Name
 
 Soumyadeep Mukherjee
 
