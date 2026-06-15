@@ -1,0 +1,41 @@
+.content-wrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: red;
+    color: #fff;
+}
+.laptop-text, .tab-text, .mobile-text{
+    display: none;
+}
+
+@media (max-width: 1024px){
+    .content-wrap{
+        background-color: yellow;
+    }
+    .laptop-text{display: block;}
+    .desktop-text, .tab-text, .mobile-text{
+        display: none;
+    }
+}
+
+@media (max-width: 768px){
+    .content-wrap{
+        background-color: green;
+    }
+    .tab-text{display: block;}
+    .desktop-text, .laptop-text, .mobile-text{
+        display: none;
+    }
+}
+
+@media (max-width: 480px){
+    .content-wrap{
+        background-color: red;
+    }
+    .mobile-text{display: block;}
+    .desktop-text, .laptop-text, .tab-text{
+        display: none;
+    }
+}
