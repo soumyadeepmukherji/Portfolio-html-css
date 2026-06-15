@@ -44,7 +44,7 @@ This portfolio was created to practice and demonstrate:
 1. Clone repository
 
 ```bash
-git clone <https://github.com/soumyadeepmukherji/Portfolio-html-css>
+git clone https://github.com/soumyadeepmukherji/Portfolio-html-css
 ```
 
 2. Open project folder
@@ -56,6 +56,13 @@ cd portfolio-html-css
 3. Run locally
 
 Open `index.html` in browser.
+
+4. Live Link
+
+```
+  https://soumyadeepmukherji.github.io/Portfolio-html-css/
+
+```
 
 ---
 
